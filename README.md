@@ -1,5 +1,5 @@
 # 👋Hi, i'm Anny
-### Frontend Developer, Technical Writer
+### Data Analyst, Technical Writer
 
 I'm a learning enthusiast, passionate about telling stories with data and making a difference. I enjoy the challenges that come with data analysis. I'm actively working towards growing and evolving.
 
